@@ -89,7 +89,7 @@ class HomePage extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Text(
-              "FEBURARY 6",
+              "JANUARY 17",
               style: TextStyle(
                 color: Colors.grey,
               ),
